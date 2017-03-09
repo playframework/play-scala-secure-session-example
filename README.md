@@ -1,4 +1,6 @@
-# Play Kalium
+[<img src="https://img.shields.io/travis/playframework/play-scala-kalium-example.svg"/>](https://travis-ci.org/playframework/play-scala-kalium-example)
+
+# play-scala-kalium-example
 
 This is an example application that shows how to use symmetric encryption with [Kalium](https://github.com/abstractj/kalium/).
 
